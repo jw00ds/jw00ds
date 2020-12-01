@@ -10,5 +10,5 @@
 # Bootcamp student stoked about the lifelong-learning journey of coding
 
 - 🔭 I’m currently working on a final project for covalence.io's full-stack web-development bootcamp
-- 🌱 I’m currently learning React Hooks, Infima CSS, Python, and PostgreSQL
+- 🌱 I’m currently learning ReactJS Hooks, Infima CSS, Python, and PostgreSQL
 -->
