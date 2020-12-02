@@ -1,5 +1,5 @@
-## John Woods - Bootcamp student stoked about the lifelong-learning journey of coding
-
+## John Woods
+### Bootcamp student stoked about the lifelong-learning journey of coding
 - I’m currently working on a final project for covalence.io's full-stack web-development bootcamp, a kitchen-inventory-tracking app
 - I’m currently learning ReactJS Hooks, Infima CSS, Python, and PostgreSQL
 
@@ -12,7 +12,7 @@
 # Bootcamp student stoked about the lifelong-learning journey of coding
 
 - 🔭 I’m currently working on a final project for covalence.io's full-stack web-development bootcamp
-- 🌱 I’m currently learning ReactJS Hooks, Infima CSS, Python, and PostgreSQL
+- 🌱 I’m currently learning ReactJS Hooks, Infima CSS, Python, and Postgres
 -->
 [2]: https://www.linkedin.com/in/woodsjohnc/
 [2.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
