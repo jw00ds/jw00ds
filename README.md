@@ -1,8 +1,8 @@
 ## John Woods
 ### Bootcamp student stoked about the lifelong-learning journey of coding
 
-- Currently working on a final project for [Covalence.io](https://www.covalence.io "Covalence homepage")'s full-stack web-development bootcamp: a kitchen-inventory-tracking app
-- Currently learning ReactJS Hooks, [Infima CSS](https://facebookincubator.github.io/infima/ "Infima beta landing page"), Python, and Postgres
+- Currently working on final project for [Covalence.io](https://www.covalence.io "Covalence homepage")'s full-stack web-development bootcamp: a kitchen-inventory-tracking app
+- Currently learning [Infima CSS](https://facebookincubator.github.io/infima/ "Infima beta landing page"), Python, and Postgres
 
  [![LinkedIn][2.2]][2]
 
