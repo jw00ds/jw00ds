@@ -4,7 +4,7 @@
 - Currently working on final project for [Covalence.io](https://www.covalence.io "Covalence homepage")'s full-stack web-development bootcamp: a kitchen-inventory-tracking app
 - Currently learning [Infima CSS](https://facebookincubator.github.io/infima/ "Infima beta landing page"), Python, and Postgres
 
- [![LinkedIn][2.2]][2]
+ ###### [![LinkedIn][2.2]][2] [LinkedIn Profile](https://www.linkedin.com/in/woodsjohnc/)
 
 <!--
 **jw00ds/jw00ds** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
