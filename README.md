@@ -1,6 +1,3 @@
-## John Woods
-### Bootcamp student stoked about the lifelong-learning journey of coding
-
 - Currently working on final project for [Covalence.io](https://www.covalence.io "Covalence homepage")'s full-stack web-development bootcamp: a [kitchen-inventory-tracking app](https://github.com/MagicCityCode/pantry)
 - Currently learning [Infima CSS](https://facebookincubator.github.io/infima/ "Infima beta landing page"), Python, and Postgres
 
@@ -8,9 +5,6 @@
 
 <!--
 **jw00ds/jw00ds** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-### John Woods
-# Bootcamp student stoked about the lifelong-learning journey of coding
 
 - 🔭 I’m currently working on a final project for covalence.io's full-stack web-development bootcamp
 - 🌱 I’m currently learning ReactJS Hooks, Infima CSS, Python, and Postgres
