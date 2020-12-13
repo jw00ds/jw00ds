@@ -1,5 +1,5 @@
 - Currently working on a [kitchen-inventory-tracking app](https://github.com/MagicCityCode/pantry)
-- Currently learning [Infima CSS](https://facebookincubator.github.io/infima/ "Infima beta landing page"), Python, and Postgres
+- Learning [Infima CSS](https://facebookincubator.github.io/infima/ "Infima beta landing page"), Python, and Postgres
 
  ###### [![LinkedIn][2.2]][2]  [LinkedIn](https://www.linkedin.com/in/woodsjohnc/)
 
