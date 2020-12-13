@@ -1,4 +1,4 @@
-- Currently working on capstone project for [Covalence.io](https://www.covalence.io "Covalence homepage")'s full-stack web-development bootcamp: a [kitchen-inventory-tracking app](https://github.com/MagicCityCode/pantry)
+- Currently working on a [kitchen-inventory-tracking app](https://github.com/MagicCityCode/pantry)
 - Currently learning [Infima CSS](https://facebookincubator.github.io/infima/ "Infima beta landing page"), Python, and Postgres
 
  ###### [![LinkedIn][2.2]][2]  [LinkedIn](https://www.linkedin.com/in/woodsjohnc/)
