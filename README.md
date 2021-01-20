@@ -1,3 +1,4 @@
+- [What I've been reading](https://www.breads.io/21)
 - Currently working on an [inventory-tracking app](https://github.com/MagicCityCode/pantry)
 - Learning [Infima CSS](https://facebookincubator.github.io/infima/ "Infima beta landing page"), Python, and Postgres
 
