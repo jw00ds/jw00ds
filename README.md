@@ -1,6 +1,4 @@
 - [What I've been reading](https://www.breads.io/21) (via [@aTmb405](https://github.com/aTmb405)'s [Breads reading-tracking app](https://github.com/aTmb405/breads-client))
-- Currently working on an [inventory-tracking app](https://github.com/MagicCityCode/pantry)
-- Learning [Infima CSS](https://facebookincubator.github.io/infima/ "Infima beta landing page"), Python, and Postgres
 
  ###### [![LinkedIn][2.2]][2]  [LinkedIn](https://www.linkedin.com/in/woodsjohnc/)
 
@@ -12,3 +10,8 @@
 -->
 [2]: https://www.linkedin.com/in/woodsjohnc/
 [2.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (John Woods' LinkedIn profile)
+
+<!--
+- Currently working on an [inventory-tracking app](https://github.com/MagicCityCode/pantry)
+- Learning [Infima CSS](https://facebookincubator.github.io/infima/ "Infima beta landing page"), Python, and Postgres
+-->
