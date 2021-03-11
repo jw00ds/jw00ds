@@ -1,6 +1,6 @@
 - [What I've been reading](https://www.breads.io/21) (via [@aTmb405](https://github.com/aTmb405)'s [Breads reading-tracking app](https://github.com/aTmb405/breads-client))
 
- ###### [![LinkedIn][2.2]][2]  [LinkedIn](https://www.linkedin.com/in/woodsjohnc/)
+ ###### [![LinkedIn][2.2]][2]
 
 <!--
 **jw00ds/jw00ds** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
