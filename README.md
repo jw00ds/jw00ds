@@ -1,4 +1,4 @@
- ######  [![LinkedIn][2.2]][2]
+[![LinkedIn][2.2]][2]
 
 <!--
 **jw00ds/jw00ds** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
