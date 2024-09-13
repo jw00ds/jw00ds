@@ -1,5 +1,3 @@
-[What I've been reading](https://www.breads.io/21) (via [@aubundy](https://github.com/aubundy)'s [Breads reading-tracking app](https://github.com/aTmb405/breads-client))
-
  ######  [![LinkedIn][2.2]][2]
 
 <!--
